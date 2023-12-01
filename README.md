@@ -107,6 +107,8 @@
 
 <br/>  
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caupolicanre&hide_border=true&layout=compact" align="center" /></div>
