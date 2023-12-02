@@ -1,6 +1,7 @@
 name: WakaTime Readme
 
 on:
+  workflow_dispatch: # Manual workflow trigger
   schedule:
     # - cron: "0 21 * * *"
     - cron: "* * * * *"
