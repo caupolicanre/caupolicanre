@@ -1,0 +1,33 @@
+name: WakaTime Readme
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+
+jobs:
+  update-readme:
+    name: WakaReadme DevMetrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master # Action name
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+
+          # Content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: python
+          TIME_RANGE: last_30_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+
+          # Commit
+          COMMIT_MESSAGE: Updated waka-readme graph
+          TARGET_BRANCH: main
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
+          AUTHOR_NAME: caupolicanre # optional
+          AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }}
