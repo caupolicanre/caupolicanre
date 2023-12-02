@@ -2,7 +2,8 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: "0 21 * * *"
+    # - cron: "0 21 * * *"
+    - cron: "* * * * *"
 
 jobs:
   update-readme:
