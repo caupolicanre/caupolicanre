@@ -109,6 +109,19 @@
 
 ## ⌨️⏲️ Weekly development breakdown  
 <!--START_SECTION:waka-->
+
+```python
+From: 02 November 2023 - To: 02 December 2023
+
+Total Time: 38 mins
+
+Python       33 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▰▰▰▰▰▰   77.58 %
+Other        5 mins          ▱▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   12.35 %
+Text         3 mins          ▱▱▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   08.29 %
+Git Config   0 secs          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   01.44 %
+CSV          0 secs          ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   00.35 %
+```
+
 <!--END_SECTION:waka-->
   
   
