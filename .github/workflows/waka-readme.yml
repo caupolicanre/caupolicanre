@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: WakaReadme DevMetrics
+    name: WakaTime Readme DevMetrics
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master # Action name
