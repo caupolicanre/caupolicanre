@@ -90,25 +90,43 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/caupolicanre" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/16499493/caupolicán-ré" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/lautaro-caupolican-re" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/caupolicanre" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>  
+  <a href="https://github.com/caupolicanre" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/16499493/caupolicán-ré" target="_blank">
+    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/lautaro-caupolican-re" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/caupolicanre" target="_blank">
+    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  </a>  
 </div>  
   
 
 <br/>  
 
+## ⌨️⏲️ Weekly development breakdown  
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caupolicanre&hide_border=true&layout=compact" align="center" /></div>
+  
+  
+## 💼 Highlighted Repositories  
+<!--
+Themes that I like:
+  . dark
+  . github_dark_dimmed
+  . one_dark_pro
+  . vue-dark
+  . react
+  
+Border colors that I like:
+  . 333333
+-->
+<a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=react" align="center" />
+</a>
+<!-- <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=dark" align="center" />
+</a> -->
