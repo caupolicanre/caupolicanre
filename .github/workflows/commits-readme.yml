@@ -18,6 +18,7 @@ jobs:
           # Config
           SECTION_NAME: commits
           SHOW_UPDATED_DATE: false
+          DEBUG_LOGGING: true
 
           # Content
           SHOW_LINES_OF_CODE: false
