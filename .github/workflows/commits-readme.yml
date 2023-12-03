@@ -10,7 +10,7 @@ jobs:
     name: GitHub Commits
     runs-on: ubuntu-latest
     steps:
-      - uses: caupolicanre/waka-readme-stats@master
+      - uses: caupolicanre/waka-readme-stats@test_symbol
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
