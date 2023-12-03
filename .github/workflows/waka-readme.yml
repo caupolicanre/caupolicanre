@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   workflow_dispatch: # Manual workflow trigger
   schedule:
-    - cron: "0 21 * * *"
+    - cron: "0 0 * * *"
 
 jobs:
   update-readme-languages:
