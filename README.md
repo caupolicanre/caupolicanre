@@ -140,7 +140,7 @@ CSV          0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 <!--END_SECTION:commits-->
   
   
-## 💼 Highlighted Repositories  
+## 💼 Highlighted Projects  
 <!--
 Themes that I like:
   . dark
