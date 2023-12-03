@@ -53,7 +53,7 @@ jobs:
           SHOW_LANGUAGE: false
           SHOW_OS: false
           SHOW_PROJECTS: false # Investigate to replicate languages format to show projects programming time
-          SHOW_TIMEZONE: false
+          SHOW_TIMEZONE: true
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_SHORT_INFO: false
