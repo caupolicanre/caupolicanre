@@ -1,0 +1,41 @@
+name: Commits Readme
+
+on:
+  workflow_dispatch: # Manual workflow trigger
+  schedule:
+    - cron: "0 */6 * * *" # Updates every 6 hours
+
+jobs:
+  update-readme-commits:
+    name: GitHub Commits
+    runs-on: ubuntu-latest
+    steps:
+      - uses: caupolicanre/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+          # Config
+          SECTION_NAME: commits
+          SHOW_UPDATED_DATE: false
+
+          # Content
+          SHOW_LINES_OF_CODE: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: true
+          SYMBOL_VERSION: 4
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_LANGUAGE: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false # Investigate to replicate languages format to show projects programming time
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_LANGUAGE_PER_REPO: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false          
+
+          # Commit
+          COMMIT_BY_ME: false
+          COMMIT_USERNAME: GitHubActionBot
+          COMMIT_EMAIL: action-bot@github.com
