@@ -1,0 +1,17 @@
+name: Follow-up of issues and pull requests
+
+on:
+  workflow_dispatch: # Manual workflow trigger
+  schedule:
+    - cron: "0 3 * * *" # Updates every day at 3am
+
+jobs:
+  update-issues-pr-stats:
+    name: Indepth analysis
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.followup.indepth.svg
+      token: ${{ secrets.GH_TOKEN }}
+      base: ""
+      plugin_followup: yes
+      plugin_followup_indepth: yes
