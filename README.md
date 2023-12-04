@@ -1,10 +1,14 @@
 ## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
+
+## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=30px width=30px alt=db-logo /> and Python enthusiast 🐍
+
 ### A little more about me
 
 ```python
 class Caupo:
     def __init__(self):
         self.name = 'Caupolicán'
+        self.last_name = 'Ré'
         self.nacionality = 'Argentinian'
         self.birthday = 'May, 5th'
         self.student = True
@@ -13,6 +17,10 @@ class Caupo:
     @property
     def studying(self) -> str:
         return 'Data Processing and Exploitation'
+
+    @property
+    def working_at(self) -> str:
+        return 'Laboratorio de Informática y Computación Aplicada'
 
     @property
     def languages(self) -> dict:
@@ -29,6 +37,8 @@ class Caupo:
     def frameworks(self) -> list:
         return ['Flask', 'Bootstrap']
 ```
+
+##
 
 <!--
 ## My Skill Set  
