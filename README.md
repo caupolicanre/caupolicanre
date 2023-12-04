@@ -4,6 +4,11 @@
 <br/>  
 
 
+```python
+
+```
+
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -153,8 +158,8 @@ Border colors that I like:
   . 333333
 -->
 <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=react" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=github_dark_dimmed" align="center" />
 </a>
 <!-- <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=dark" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=github_dark_dimmed" align="center" />
 </a> -->
