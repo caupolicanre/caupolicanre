@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
 
-## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt=db-logo /> and Python enthusiast 🐍
+## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt="db-logo" /> and Python enthusiast <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/python-logo.png" style="margin-bottom: 5px" height=25px alt="python-logo" />
 
 ### A little more about me
 
