@@ -25,8 +25,8 @@ jobs:
           SHOW_TOTAL: true
 
           # Commit
-          COMMIT_MESSAGE: Updated wakatime-readme info
+          COMMIT_MESSAGE: Update wakatime-readme info
           TARGET_BRANCH: main
           TARGET_PATH: README.md
-          COMMITTER_NAME: GitHubActionBot
-          COMMITTER_EMAIL: action-bot@github.com
+          COMMITTER_NAME: github-actions[bot]
+          COMMITTER_EMAIL: github-actions-bot@github.com
