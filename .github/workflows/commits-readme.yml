@@ -40,6 +40,6 @@ jobs:
 
           # Commit
           COMMIT_BY_ME: false
-          COMMIT_MESSAGE: Updated commit stats
-          COMMIT_USERNAME: GitHubActionBot
-          COMMIT_EMAIL: action-bot@github.com
+          COMMIT_MESSAGE: Update commit stats
+          COMMIT_USERNAME: github-actions[bot]
+          COMMIT_EMAIL: github-actions-bot@github.com
