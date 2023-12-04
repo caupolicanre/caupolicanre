@@ -8,7 +8,7 @@ class Caupo:
         self.nacionality = 'Argentinian'
         self.birthday = 'May, 5th'
         self.student = True
-        self.work = True
+        self.working = True
     
     @property
     def studying(self) -> str:
