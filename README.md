@@ -1,18 +1,38 @@
-### <div align="center">I'm Caupolicán, an advanced Data Science student and python programmer</div>  
-  
-
-<br/>  
-
+## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
+### A little more about me
 
 ```python
+class Caupo:
+    def __init__(self):
+        self.name = 'Caupolicán'
+        self.nacionality = 'Argentinian'
+        self.birthday = 'May, 5th'
+        self.student = True
+        self.work = True
+    
+    @property
+    def studying(self) -> str:
+        return 'Data Processing and Exploitation'
 
+    @property
+    def languages(self) -> dict:
+        return {
+            'spanish': 'native',
+            'english': 'fluent'
+        }
+
+    @property
+    def programming_languages(self) -> list:
+        return ['Python', 'SQL', 'C', 'R', 'Java']
+    
+    @property
+    def frameworks(self) -> list:
+        return ['Flask', 'Bootstrap']
 ```
 
-
+<!--
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 **Frontend**  
 <div align="center">  
@@ -38,8 +58,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 **Backend**  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -64,8 +82,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 **DevOps**  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -89,6 +105,7 @@
 </div>
 
 </td></tr></table>  
+-->
 
 <br/>  
 
