@@ -10,7 +10,7 @@ jobs:
     name: GitHub Commits
     runs-on: ubuntu-latest
     steps:
-      - uses: caupolicanre/waka-readme-stats@customize_text_field
+      - uses: caupolicanre/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -31,7 +31,7 @@ jobs:
           SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE: false
           SHOW_OS: false
-          SHOW_PROJECTS: false # Investigate to replicate languages format to show projects programming time
+          SHOW_PROJECTS: false
           SHOW_TIMEZONE: false
           SHOW_EDITORS: false
           SHOW_LANGUAGE_PER_REPO: false
