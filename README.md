@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
 
-## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=30px width=30px alt=db-logo /> and Python enthusiast 🐍
+## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt=db-logo /> and Python enthusiast 🐍
 
 ### A little more about me
 
@@ -141,10 +141,10 @@ CSV          0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 **I'm an Early 🐤** 
 
 ```python
-🌞 Morning                612 commits         ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   35.83 % 
-🌆 Daytime                589 commits         ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.48 % 
-🌃 Evening                332 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.44 % 
-🌙 Night                  175 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.25 % 
+🌞 Morning                612 commits         ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   35.66 % 
+🌆 Daytime                596 commits         ▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   34.73 % 
+🌃 Evening                333 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   19.41 % 
+🌙 Night                  175 commits         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   10.20 % 
 ```
 
 
