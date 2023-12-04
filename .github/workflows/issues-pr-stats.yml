@@ -7,41 +7,66 @@ on:
 
 
 jobs:
-  update-issues-pr-stats:
-    name: Indepth analysis
-    runs-on: ubuntu-latest
+  # update-issues-pr-stats:
+  #   name: Indepth analysis
+  #   runs-on: ubuntu-latest
+  #   permissions:
+  #     contents: write
+      
+  #   steps:
+  #   - name: Checkout repository
+  #   - uses: actions/checkout@v3
+  #     with:
+  #         fetch-depth: 0
+          
+  #   - name: Generate metrics image
+  #   - uses: lowlighter/metrics@latest
+  #     with:
+  #       filename: metrics.plugin.followup.indepth.svg
+  #       token: ${{ secrets.GH_TOKEN }}
+  #       base: ""
+  #       plugin_followup: yes
+  #       plugin_followup_indepth: yes
+
+
+  #   - name: Push metrics
+  #   - uses: lowlighter/metrics@latest
+  #     with:
+  #       output_action: none
+
+  #   - uses: lowlighter/metrics@latest
+  #     with:
+  #       run: |
+  #         set +e
+  #         git checkout metrics-renders
+  #         git config user.name GitHubActionBot
+  #         git config user.email action-bot@github.com
+  #         sudo mv /metrics_renders/* ./
+  #         git add --all
+  #         git commit -m "Updated issues and pr stats"
+  #         git push
+
+
+  metrics:
     permissions:
       contents: write
-      
     steps:
-    - name: Checkout repository
-    - uses: actions/checkout@v3
-      with:
-          fetch-depth: 0
-          
-    - name: Generate metrics image
-    - uses: lowlighter/metrics@latest
-      with:
-        filename: metrics.plugin.followup.indepth.svg
-        token: ${{ secrets.GH_TOKEN }}
-        base: ""
-        plugin_followup: yes
-        plugin_followup_indepth: yes
-
-
-    - name: Push metrics
-    - uses: lowlighter/metrics@latest
-      with:
-        output_action: none
-
-    - uses: lowlighter/metrics@latest
-      with:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+          with:
+            fetch-depth: 0
+  
+      - uses: lowlighter/metrics@latest
+        with:
+          output_action: none
+  
+      - uses: lowlighter/metrics@latest
         run: |
           set +e
           git checkout metrics-renders
-          git config user.name GitHubActionBot
-          git config user.email action-bot@github.com
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           sudo mv /metrics_renders/* ./
           git add --all
-          git commit -m "Updated issues and pr stats"
+          git commit -m "chore: push metrics"
           git push
