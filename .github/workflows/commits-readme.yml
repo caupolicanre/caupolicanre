@@ -26,8 +26,8 @@ jobs:
           SHOW_PROFILE_VIEWS: false
           SHOW_COMMIT: true
           SYMBOL_VERSION: 2
-          SYMBOL_STYLE: ▰
-          CODE_BLOCK_LANGUAGE: pythonn
+          SYMBOL_STYLE: ▰▱
+          CODE_BLOCK_LANGUAGE: python
           SHOW_DAYS_OF_WEEK: false
           SHOW_LANGUAGE: false
           SHOW_OS: false
@@ -40,5 +40,6 @@ jobs:
 
           # Commit
           COMMIT_BY_ME: false
+          COMMIT_MESSAGE: Updated commit stats
           COMMIT_USERNAME: GitHubActionBot
           COMMIT_EMAIL: action-bot@github.com
