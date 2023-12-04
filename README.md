@@ -92,26 +92,6 @@
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-  <a href="https://github.com/caupolicanre" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://stackoverflow.com/users/16499493/caupolicán-ré" target="_blank">
-    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://linkedin.com/in/lautaro-caupolican-re" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.kaggle.com/caupolicanre" target="_blank">
-    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-  </a>  
-</div>  
-  
-
-<br/>  
-
 ## ⌨️⏲️ Weekly development breakdown  
 <!--START_SECTION:waka-->
 
@@ -163,3 +143,36 @@ Border colors that I like:
 <!-- <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=github_dark_dimmed" align="center" />
 </a> -->
+
+<!--## 📓 Highlighted Gists
+<a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=github_dark_dimmed" align="center" />
+</a>
+<a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/">
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d&theme=github_dark_dimmed" align="center" />
+</a> -->
+
+<br/>  
+
+---
+#### 📩 Connect with me  
+<div align="center">
+  <a href="https://github.com/caupolicanre" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=Flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/16499493/caupolicán-ré" target="_blank">
+    <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=Flat&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~018320cc991945d377" target="_blank">
+    <img src=https://img.shields.io/badge/UpWork-6FDA44?style=Flat&logo=Upwork&logoColor=white alt=upwork style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/lautaro-caupolican-re" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=Flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:caupolicanre@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=Flat&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kaggle.com/caupolicanre" target="_blank">
+    <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=Flat&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  </a>  
+</div>
