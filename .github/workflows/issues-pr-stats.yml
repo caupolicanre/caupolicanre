@@ -28,6 +28,8 @@ jobs:
         plugin_followup: yes
         plugin_followup_indepth: yes
 
+
+    - name: Push metrics
     - uses: lowlighter/metrics@latest
       with:
         output_action: none
