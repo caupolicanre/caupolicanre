@@ -183,11 +183,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/anmol098/waka-readme-stats/pull/491#issuecomment-1838854568) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🗣 Commented on [#452](https://github.com/anmol098/waka-readme-stats/issues/452#issuecomment-1837761209) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🗣 Commented on [#471](https://github.com/anmol098/waka-readme-stats/issues/471#issuecomment-1837752088) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 💪 Opened PR [#491](https://github.com/anmol098/waka-readme-stats/pull/491) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 🎉 Merged PR [#1](https://github.com/caupolicanre/waka-readme-stats/pull/1) in [caupolicanre/waka-readme-stats](https://github.com/caupolicanre/waka-readme-stats)
+1. 🗣 Commented on [#491](https://github.com/anmol098/waka-readme-stats/pull/491#issuecomment-1843828950) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 🗣 Commented on [#491](https://github.com/anmol098/waka-readme-stats/pull/491#issuecomment-1838854568) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 🗣 Commented on [#452](https://github.com/anmol098/waka-readme-stats/issues/452#issuecomment-1837761209) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🗣 Commented on [#471](https://github.com/anmol098/waka-readme-stats/issues/471#issuecomment-1837752088) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 💪 Opened PR [#491](https://github.com/anmol098/waka-readme-stats/pull/491) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
