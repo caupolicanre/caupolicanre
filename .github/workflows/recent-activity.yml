@@ -1,0 +1,31 @@
+name: Update Recent Github Activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/60 * * * *"
+  
+jobs:
+  update-recent-activity:
+    name: Update Recent Github Activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        with:
+          # Config
+          GH_USERNAME: caupolicanre
+        
+          # Content
+          MAX_LINES: 5
+          TARGET_FILE: README.md
+
+          # Commit
+          COMMIT_MSG: Update recent github activity
+          COMMIT_NAME: github-actions[bot]
+          COMMIT_EMAIL: github-actions-bot@github.com
