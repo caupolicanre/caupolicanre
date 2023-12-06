@@ -180,6 +180,13 @@ Border colors that I like:
 </a> -->
 
 <br/>  
+<br/>  
+
+<details>
+    <summary>⚡ Recent Activity</summary>
+    <!--START_SECTION:activity-->
+    <!--END_SECTION:activity-->
+</details>
 
 ---
 #### 📩 Connect with me  
