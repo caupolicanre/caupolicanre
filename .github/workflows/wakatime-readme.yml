@@ -3,7 +3,7 @@ name: WakaTime Readme
 on:
   workflow_dispatch: # Manual workflow trigger
   schedule:
-    - cron: "0 3 * * *" # Updates every day at 3am
+    - cron: "0 3 * * *" # Updates every day
 
 jobs:
   update-readme-languages:
@@ -19,7 +19,8 @@ jobs:
           SECTION_NAME: waka
           BLOCKS: ▱▰
           CODE_LANG: python
-          TIME_RANGE: last_30_days
+          TIME_RANGE: last_7_days
+          # TIME_RANGE: last_30_days
           LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
