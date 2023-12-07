@@ -123,15 +123,15 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 05 November 2023 - To: 05 December 2023
+From: 07 November 2023 - To: 07 December 2023
 
-Total Time: 5 hrs 37 mins
+Total Time: 10 hrs 19 mins
 
-Python       3 hrs 12 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   49.65 %
-YAML         1 hr 23 mins    ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.45 %
-Other        50 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   13.00 %
-Markdown     44 mins         ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   11.38 %
-Docker       9 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
+Python       7 hrs 45 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱   69.51 %
+YAML         1 hr 23 mins    ▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   12.41 %
+Other        50 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.52 %
+Markdown     44 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   06.59 %
+Docker       9 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.37 %
 ```
 
 <!--END_SECTION:waka-->
