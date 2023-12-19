@@ -38,8 +38,6 @@ class Caupo:
         return ['Flask', 'Bootstrap']
 ```
 
-##
-
 <!--
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
