@@ -121,15 +121,15 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 14 December 2023 - To: 21 December 2023
+From: 15 December 2023 - To: 22 December 2023
 
-Total Time: 6 hrs
+Total Time: 11 hrs 32 mins
 
-Python        4 hrs 47 mins   ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱   77.96 %
-C++           28 mins         ▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   07.75 %
-Objective-C   16 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.50 %
-SQL           10 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.82 %
-Other         9 mins          ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.47 %
+Python        10 hrs 20 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱   88.40 %
+C++           28 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   04.08 %
+Objective-C   16 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.37 %
+SQL           10 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.49 %
+Other         9 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.30 %
 ```
 
 <!--END_SECTION:waka-->
