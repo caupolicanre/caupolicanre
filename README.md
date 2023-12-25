@@ -121,7 +121,7 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
 Total Time: 11 hrs 3 mins
 
