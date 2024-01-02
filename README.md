@@ -121,12 +121,11 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 24 December 2023 - To: 31 December 2023
+From: 25 December 2023 - To: 01 January 2024
 
-Total Time: 1 hr 14 mins
+Total Time: 0 secs
 
-Python   1 hr 13 mins    ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰   99.22 %
-INI      0 secs          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.78 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
