@@ -121,7 +121,7 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
 Total Time: 0 secs
 
