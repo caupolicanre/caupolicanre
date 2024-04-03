@@ -121,14 +121,14 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 25 March 2024 - To: 01 April 2024
+From: 26 March 2024 - To: 02 April 2024
 
-Total Time: 11 hrs 29 mins
+Total Time: 10 hrs 25 mins
 
-Python   11 hrs 13 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.81 %
-Other    13 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.95 %
-Bash     11 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.62 %
-HTML     4 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.62 %
+Python   10 hrs 19 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   96.92 %
+Other    13 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.14 %
+HTML     4 mins          ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.68 %
+Bash     1 min           ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   00.26 %
 ```
 
 <!--END_SECTION:waka-->
