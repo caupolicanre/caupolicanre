@@ -35,7 +35,7 @@ class Caupo:
     
     @property
     def frameworks(self) -> list:
-        return ['Flask', 'Bootstrap']
+        return ['Flask', 'FastAPI', 'Django', 'Django-REST-framework']
 ```
 
 <!--
