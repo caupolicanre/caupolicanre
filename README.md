@@ -15,12 +15,15 @@ class Caupo:
         self.working = True
     
     @property
-    def studying(self) -> str:
+    def studying_at(self) -> str:
         return 'Data Processing and Exploitation'
 
     @property
-    def working_at(self) -> str:
-        return 'Laboratorio de Informática y Computación Aplicada'
+    def working_at(self) -> dict:
+        return {
+            'LICA': 'Laboratorio de Informática y Computación Aplicada',
+            'SUMAR': 'Ministerio de Salud de Entre Ríos'
+        }
 
     @property
     def languages(self) -> dict:
