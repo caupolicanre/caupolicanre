@@ -13,9 +13,13 @@ class Caupo:
         self.birthday = 'May, 5th'
         self.student = True
         self.working = True
-    
+
     @property
     def studying_at(self) -> str:
+        return 'Facultad de Ingeniería - UNER'
+
+    @property
+    def career(self) -> str:
         return 'Data Processing and Exploitation'
 
     @property
@@ -166,9 +170,9 @@ Border colors that I like:
 <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=github_dark_dimmed" align="center" />
 </a>
-<!-- <a href="https://github.com/caupolicanre/datawarehouse-ElProfesional">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=datawarehouse-ElProfesional&theme=github_dark_dimmed" align="center" />
-</a> -->
+<a href="https://github.com/caupolicanre/citation-network-graphdb">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caupolicanre&repo=citation-network-graphdb&theme=github_dark_dimmed" align="center" />
+</a>
 
 <!--## 📓 Highlighted Gists
 <a href="https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/">
@@ -204,7 +208,7 @@ Border colors that I like:
   <a href="https://linkedin.com/in/lautaro-caupolican-re" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=Flat&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:caupolicanre@gmail.com" target="_blank">
+  <a href="mailto:lautaro.re@ingenieria.uner.edu.ar" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=Flat&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.kaggle.com/caupolicanre" target="_blank">
