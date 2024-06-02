@@ -26,7 +26,7 @@ class Caupo:
     def working_at(self) -> dict:
         return {
             'LICA': 'Laboratorio de Informática y Computación Aplicada',
-            'SUMAR': 'Ministerio de Salud de Entre Ríos'
+            'SADER': 'Ministerio de Salud de Entre Ríos'
         }
 
     @property
