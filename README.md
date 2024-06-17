@@ -128,7 +128,7 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 08 June 2024 - To: 15 June 2024
+From: 09 June 2024 - To: 16 June 2024
 
 Total Time: 24 hrs 14 mins
 
