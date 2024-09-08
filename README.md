@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
 
-## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt="db-logo" /> and Python enthusiast <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/python-logo.png" style="margin-bottom: 5px" height=25px alt="python-logo" />
+## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt="db-logo"/> and Python enthusiast <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/python-logo.png" style="margin-bottom: 5px" height=25px alt="python-logo" />
 
 ### A little more about me
 
@@ -122,7 +122,12 @@ class Caupo:
 </td></tr></table>  
 -->
 
-<br/>  
+<!-- <br/> -->
+
+<div align="right"><h3>Last year's coding time</h3></div>
+<a href="https://wakatime.com/@caupolicanre" target="_blank">
+    <img src="https://wakatime.com/badge/user/018c27a8-f9f9-40a7-b4b2-4508370458bd.svg" align="right" href="https://wakatime.com/@caupolicanre" target="_blank"/>
+</a>  
 
 ## ⌨️⏲️ Weekly development breakdown  
 <!--START_SECTION:waka-->
