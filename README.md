@@ -202,10 +202,10 @@ Border colors that I like:
 <div align="center">
   <a href="https://github.com/caupolicanre" target="_blank">
     <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=Flat&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-  </a>
+<!--   </a>
   <a href="https://stackoverflow.com/users/16499493/caupolicán-ré" target="_blank">
     <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=Flat&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-  </a>
+  </a> -->
   <a href="https://www.upwork.com/freelancers/~018320cc991945d377" target="_blank">
     <img src=https://img.shields.io/badge/UpWork-6FDA44?style=Flat&logo=Upwork&logoColor=white alt=upwork style="margin-bottom: 5px;" />
   </a>
@@ -214,8 +214,8 @@ Border colors that I like:
   </a>
   <a href="mailto:lautaro.re@ingenieria.uner.edu.ar" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=Flat&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-  </a>
+<!--   </a>
   <a href="https://www.kaggle.com/caupolicanre" target="_blank">
     <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=Flat&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-  </a>  
+  </a>   -->
 </div>
