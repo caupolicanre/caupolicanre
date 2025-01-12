@@ -1,6 +1,6 @@
 ## <div align="center">Hi, I'm Caupolicán! 🖥️</div>  
 
-## An advanced Data Science student <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt="db-logo"/> and Python enthusiast <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/python-logo.png" style="margin-bottom: 5px" height=25px alt="python-logo" />
+## Data Scientist <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/db-dark-logo.png" height=25px alt="db-logo"/> and Python Developer <img src="https://github.com/caupolicanre/caupolicanre/blob/main/images/python-logo.png" style="margin-bottom: 5px" height=25px alt="python-logo" />
 
 ### A little more about me
 
@@ -23,7 +23,7 @@ class Caupo:
         return 'Data Processing and Exploitation'
 
     @property
-    def working_at(self) -> dict:
+    def workplaces(self) -> dict:
         return {
             'LICA': 'Laboratorio de Informática y Computación Aplicada',
             'SADER': 'Ministerio de Salud de Entre Ríos'
