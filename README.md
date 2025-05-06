@@ -133,13 +133,13 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-Total Time: 13 hrs 33 mins
+Total Time: 20 hrs 14 mins
 
-Python      12 hrs 41 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱▱   93.50 %
-JSON        24 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   03.07 %
-Markdown    13 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.66 %
+Python      19 hrs 18 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▱   95.40 %
+JSON        24 mins         ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   02.06 %
+Markdown    13 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   01.15 %
 ```
 
 <!--END_SECTION:waka-->
