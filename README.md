@@ -191,7 +191,7 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/caupolicanre/waka-readme-stats/pull/2) in [caupolicanre/waka-readme-stats](https://github.com/caupolicanre/waka-readme-stats)
+1. 🗣 Commented on [#491](https://github.com/anmol098/waka-readme-stats/pull/491#issuecomment-3862280692) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 2. 💪 Opened PR [#2](https://github.com/caupolicanre/waka-readme-stats/pull/2) in [caupolicanre/waka-readme-stats](https://github.com/caupolicanre/waka-readme-stats)
 3. 💪 Opened PR [#1](https://github.com/caupolicanre/transaccional-python/pull/1) in [caupolicanre/transaccional-python](https://github.com/caupolicanre/transaccional-python)
 4. 🗣 Commented on [#471](https://github.com/anmol098/waka-readme-stats/issues/471#issuecomment-1837752088) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
