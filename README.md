@@ -146,16 +146,6 @@ SQL          19 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 
 <!--START_SECTION:commits-->
-**I'm an Early 🐤** 
-
-```python
-🌞 Morning                796 commits         ▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   23.12 % 
-🌆 Daytime                1071 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.11 % 
-🌃 Evening                1033 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.00 % 
-🌙 Night                  543 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   15.77 % 
-```
-
-
 
 <!--END_SECTION:commits-->
   
