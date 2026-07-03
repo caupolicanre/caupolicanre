@@ -190,9 +190,9 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#491](https://github.com/anmol098/waka-readme-stats/pull/491#issuecomment-3862280692) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 💪 Opened PR [#2](https://github.com/caupolicanre/waka-readme-stats/pull/2) in [caupolicanre/waka-readme-stats](https://github.com/caupolicanre/waka-readme-stats)
-3. 💪 Opened PR [#1](https://github.com/caupolicanre/transaccional-python/pull/1) in [caupolicanre/transaccional-python](https://github.com/caupolicanre/transaccional-python)
+1. ℹ️ Labeled PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+2. 💪 Opened PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+3. ℹ️ Assigned PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
 4. 🗣 Commented on [#471](https://github.com/anmol098/waka-readme-stats/issues/471#issuecomment-1837752088) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 💪 Opened PR [#491](https://github.com/anmol098/waka-readme-stats/pull/491) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--END_SECTION:activity-->
