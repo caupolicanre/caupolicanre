@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3#issuecomment-4920003912) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-2. ℹ️ Labeled PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-3. 💪 Opened PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-4. ℹ️ Assigned PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-5. 💪 Opened PR [#491](https://github.com/anmol098/waka-readme-stats/pull/491) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 🎉 Merged PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+2. 🗣 Commented on [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3#issuecomment-4920003912) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+3. ℹ️ Labeled PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+4. 💪 Opened PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+5. ℹ️ Assigned PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
 <!--END_SECTION:activity-->
 
 ---
