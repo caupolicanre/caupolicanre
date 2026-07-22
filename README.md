@@ -146,16 +146,6 @@ HTML         35 mins               ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 
 
 <!--START_SECTION:commits-->
-**I'm an Early 🐤** 
-
-```python
-🌞 Morning                797 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.59 % 
-🌆 Daytime                1123 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.42 % 
-🌃 Evening                1169 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.66 % 
-🌙 Night                  603 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.33 % 
-```
-
-
 
 <!--END_SECTION:commits-->
   
