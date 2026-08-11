@@ -146,16 +146,6 @@ Other      18 mins               ▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱�
 
 
 <!--START_SECTION:commits-->
-**I'm an Early 🐤** 
-
-```python
-🌞 Morning                798 commits         ▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   21.46 % 
-🌆 Daytime                1130 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   30.38 % 
-🌃 Evening                1181 commits        ▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   31.76 % 
-🌙 Night                  610 commits         ▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱   16.40 % 
-```
-
-
 
 <!--END_SECTION:commits-->
   
