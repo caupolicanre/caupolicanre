@@ -133,7 +133,7 @@ class Caupo:
 <!--START_SECTION:waka-->
 
 ```python
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
 Total Time: 3 hrs 38 mins
 
