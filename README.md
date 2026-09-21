@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-2. 🗣 Commented on [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3#issuecomment-4920003912) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-3. ℹ️ Labeled PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-4. 💪 Opened PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
-5. ℹ️ Assigned PR [#3](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/3) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+1. ℹ️ Assigned issue [#8](https://github.com/FIUNER-LICA/auth-module/issues/8) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+2. ℹ️ Labeled issue [#8](https://github.com/FIUNER-LICA/auth-module/issues/8) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+3. ❗ Opened issue [#8](https://github.com/FIUNER-LICA/auth-module/issues/8) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+4. ℹ️ Assigned issue [#7](https://github.com/FIUNER-LICA/auth-module/issues/7) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+5. ℹ️ Labeled issue [#7](https://github.com/FIUNER-LICA/auth-module/issues/7) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
 <!--END_SECTION:activity-->
 
 ---
