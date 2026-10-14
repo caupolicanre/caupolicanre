@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-2. ℹ️ Labeled issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-3. ℹ️ Assigned issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-4. ℹ️ Assigned issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-5. ℹ️ Labeled PR [#4](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas/pull/4) in [FIUNER-LICA/lica-decisiones-arquitectonicas](https://github.com/FIUNER-LICA/lica-decisiones-arquitectonicas)
+1. ℹ️ Labeled issue [#4](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/issues/4) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+2. ❗ Opened issue [#4](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/issues/4) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+3. ❗ Opened issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
+4. ℹ️ Labeled issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
+5. ℹ️ Assigned issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
 <!--END_SECTION:activity-->
 
 ---
