@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#4](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/issues/4) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
-2. ❗ Opened issue [#4](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/issues/4) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
-3. ❗ Opened issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-4. ℹ️ Labeled issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
-5. ℹ️ Assigned issue [#1](https://github.com/priscilaaisaac/ProyectoPOO_grupo2/issues/1) in [priscilaaisaac/ProyectoPOO_grupo2](https://github.com/priscilaaisaac/ProyectoPOO_grupo2)
+1. 🚀 Published release [Release v1.2.0](https://github.com/FIUNER-LICA/auth-module/releases/tag/v1.2.0) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+2. 🔒 Closed issue [#13](https://github.com/FIUNER-LICA/auth-module/issues/13) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+3. 🔒 Closed issue [#10](https://github.com/FIUNER-LICA/auth-module/issues/10) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+4. 🔒 Closed issue [#8](https://github.com/FIUNER-LICA/auth-module/issues/8) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+5. 🔒 Closed issue [#7](https://github.com/FIUNER-LICA/auth-module/issues/7) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
 <!--END_SECTION:activity-->
 
 ---
