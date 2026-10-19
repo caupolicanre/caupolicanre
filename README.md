@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v1.2.0](https://github.com/FIUNER-LICA/auth-module/releases/tag/v1.2.0) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-2. 🔒 Closed issue [#13](https://github.com/FIUNER-LICA/auth-module/issues/13) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-3. 🔒 Closed issue [#10](https://github.com/FIUNER-LICA/auth-module/issues/10) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-4. 🔒 Closed issue [#8](https://github.com/FIUNER-LICA/auth-module/issues/8) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-5. 🔒 Closed issue [#7](https://github.com/FIUNER-LICA/auth-module/issues/7) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+1. 🔒 Closed issue [#11](https://github.com/FIUNER-LICA/auth-module/issues/11) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+2. ℹ️ Labeled issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+3. ❗ Opened issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+4. ℹ️ Assigned issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+5. 🚀 Published release [Release v1.2.0](https://github.com/FIUNER-LICA/auth-module/releases/tag/v1.2.0) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
 <!--END_SECTION:activity-->
 
 ---
