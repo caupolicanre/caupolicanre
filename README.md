@@ -191,11 +191,11 @@ Border colors that I like:
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/FIUNER-LICA/auth-module/issues/11#issuecomment-6275382653) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-2. 🔒 Closed issue [#11](https://github.com/FIUNER-LICA/auth-module/issues/11) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-3. ℹ️ Labeled issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-4. ❗ Opened issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
-5. ℹ️ Assigned issue [#14](https://github.com/FIUNER-LICA/auth-module/issues/14) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
+1. ℹ️ Labeled PR [#5](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/pull/5) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+2. ℹ️ Labeled PR [#5](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/pull/5) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+3. 💪 Opened PR [#5](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/pull/5) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+4. ℹ️ Assigned PR [#5](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla/pull/5) in [FIUNER-LICA/ayed-repositorio-practica-plantilla](https://github.com/FIUNER-LICA/ayed-repositorio-practica-plantilla)
+5. 🗣 Commented on [#11](https://github.com/FIUNER-LICA/auth-module/issues/11#issuecomment-6275382653) in [FIUNER-LICA/auth-module](https://github.com/FIUNER-LICA/auth-module)
 <!--END_SECTION:activity-->
 
 ---
